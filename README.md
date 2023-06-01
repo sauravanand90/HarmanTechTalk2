@@ -1,3 +1,12 @@
+<!-- From the author : Saurav Anand
+
+You will see two files : server.js and data.json. 
+These two files are for nodeJS application with all the configuration to host your site.
+
+Please add these files to your build folder after :npm run build".
+
+Enjoy the web dev deploy!! -->
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
